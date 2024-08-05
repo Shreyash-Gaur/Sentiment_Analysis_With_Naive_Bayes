@@ -88,8 +88,8 @@ print(p)
 ## Usage
 1. **Clone the repository** and navigate to the project directory:
    ```bash
-   git clone <repository-url>
-   cd <project-directory>
+   git clone https://github.com/Shreyash-Gaur/Sentiment_Analysis_With_Naive_Bayes.git
+   cd Sentiment_Analysis_With_Naive_Bayes
    ```
 2. **Open the Jupyter Notebook**:
    ```bash
